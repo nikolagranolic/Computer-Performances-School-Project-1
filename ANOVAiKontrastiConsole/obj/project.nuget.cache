@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yUEeGpCtOXGCGxek9XYHhrqjKoAXLM7I/gc+H8mKqWZqtzIWH1njRQLYhsKIhmceRsy2c7awLGPU8H0Rxzr2Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nikola\\Desktop\\Fakultet\\TrecaGodina\\Performanse računarskih sistema\\Laboratorijske vježbe\\Lab3\\ANOVAiKontrasti\\ANOVAiKontrastiConsole\\ANOVAiKontrastiConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikola\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
